@@ -33,7 +33,7 @@ All generated figures are saved to **Results/**. Each figure shows, for a given 
     └─ README.md                 # Project documentation
 
 ## Requirements
-• MATLAB (R2018b or newer)
+- MATLAB (R2018b or newer)
 
 ## License
 This project is licensed under the terms of the [LICENSE](LICENSE) file.
