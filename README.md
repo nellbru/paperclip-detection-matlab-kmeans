@@ -1,4 +1,4 @@
-# Paperclip Detection (MATLAB and k-means)
+# Paperclip Detection (MATLAB, k-means)
 
 ## Description
 This repository extends a lab from the **GPA659** course at **ÉTS Montréal**. It detects paperclips and their colors in images, compares the results with the ground truth and exports side-by-side figures for visualization.
